@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/kefaletbeatz/CariHesabim/releases/download/v1.0.0/CariHesabimSetup.exe",
-  "notes": "CariHesabım ilk sürüm.",
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/kefaletbeatz/CariHesabim/releases/download/v1.0.1/CariHesabimSetup.exe",
+  "notes": "Güncelleme sistemi test sürümü.",
   "sha256": "",
   "mandatory": false
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/kefaletbeatz/CariHesabim/releases/download/v1.0.1/CariHesabimSetup.exe",
-  "notes": "Güncelleme sistemi test sürümü.",
+  "version": "2.2.3",
+  "downloadUrl": "https://github.com/kefaletbeatz/CariHesabim/releases/download/v2.2.3/CariHesabimSetup.exe",
+  "notes": "Cari ekstre, PDF ve yazdırma özellikleri eklendi. PDF tasarımı iyileştirildi.",
   "sha256": "",
   "mandatory": false
 }

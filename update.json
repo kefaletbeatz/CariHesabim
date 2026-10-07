@@ -1,7 +1,7 @@
 {
-  "version": "2.2.3",
+  "version": "2.3.1",
   "downloadUrl": "https://github.com/kefaletbeatz/CariHesabim/releases/download/v2.2.3/CariHesabimSetup.exe",
-  "notes": "Cari ekstre, PDF ve yazdırma özellikleri eklendi. PDF tasarımı iyileştirildi.",
-  "sha256": "",
+  "notes": "Cari bakiye ve tahsilat hesaplama düzeltmeleri yapıldı. Ana cari listesi sadeleştirildi ve durum alanları Alacağımız / Borcumuz / Kapalı olarak güncellendi.",
+  "sha256": "66a10e73fab752cac8bbf5b7c3a0b7bee90377b6728ec6763e20ce2c91a9913b",
   "mandatory": false
 }
